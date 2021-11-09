@@ -1,0 +1,12 @@
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\bin\Debug\SistemaContaBancaria.exe.config
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\bin\Debug\SistemaContaBancaria.exe
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\bin\Debug\SistemaContaBancaria.pdb
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\obj\Debug\SistemaContaBancaria.csproj.AssemblyReference.cache
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\obj\Debug\SistemaContaBancaria.FormCadastroConta.resources
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\obj\Debug\SistemaContaBancaria.FormPrincipal.resources
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\obj\Debug\SistemaContaBancaria.Properties.Resources.resources
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\obj\Debug\SistemaContaBancaria.csproj.GenerateResource.cache
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\obj\Debug\SistemaContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\obj\Debug\SistemaContaBancaria.exe
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\obj\Debug\SistemaContaBancaria.pdb
+C:\Users\alaor\source\repos\Conta-Bancaria\SistemaContaBancaria\obj\Debug\SistemaContaBancaria.FormTransacao.resources
